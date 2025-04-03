@@ -59,3 +59,6 @@ The model performance was assessed using:
 - Real-time data integration for dynamic pricing
 - Additional factors like weather & traffic impact
 - Web application for easy access
+
+![Feature Importance](https://github.com/yourusername/bus-price-prediction/blob/main/images/feature_importance.png)
+
