@@ -32,29 +32,6 @@ The model performance was assessed using:
 - **Root Mean Squared Error (RMSE)**
 - **R-squared Score**
 
-## 🚀 Installation & Usage
-### Prerequisites
-- Python 3.x
-- Required Libraries:
-  ```sh
-  pip install pandas numpy scikit-learn matplotlib seaborn xgboost
-  ```
-
-### Running the Model
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/bus-price-prediction.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd bus-price-prediction
-   ```
-3. Run the Jupyter Notebook:
-   ```sh
-   jupyter notebook
-   ```
-   Open `bus_price_prediction.ipynb` and execute the cells.
-
 ## 🔮 Future Enhancements
 - Real-time data integration for dynamic pricing
 - Additional factors like weather & traffic impact
