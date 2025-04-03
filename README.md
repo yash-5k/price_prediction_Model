@@ -60,5 +60,5 @@ The model performance was assessed using:
 - Additional factors like weather & traffic impact
 - Web application for easy access
 
-![Feature Importance](https://github.com/yourusername/bus-price-prediction/blob/main/images/feature_importance.png)
+
 
